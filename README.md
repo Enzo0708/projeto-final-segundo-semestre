@@ -1,10 +1,13 @@
 # Relatório
 
+### Menus
 O código representa um sistema de comércio implementado em Python. Ao iniciar o software, a página inicial mostra um menu que possibilita o login como administrador ou como cliente, que levam a menus diferentes. Ao realizar o login, o usuário insere nome e senha. 
 
 No menu voltado aos clientes, as opções são para a compra, ou seja: listar os produtos disponíveis, mostrando sua descrição, seu valor e seu ID; adicionar produto ao carrinho, usando seu ID; listar os produtos do carrinho e finalizar a compra, quando o produto sai do carrinho de compras e vai pra lista de produtos comprados. 
 
 No menu voltado aos administradores, é possível cadastrar um cliente ou administrador novo, assim como listar produtos e clientes, analisar o histórico de compras do cliente e o histórico de vendas da loja.
+
+### Métodos
 Os métodos do código:
 
 Login do cliente (Realiza o primeiro processo, pedindo usuário e senha, para que o cliente use o software. Caso a senha ou o usuário estejam errados, o software reinicia.)
