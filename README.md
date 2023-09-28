@@ -39,6 +39,8 @@ Listar loja (Lista os dados da loja: CNPJ, endereço e nome.)
 Alterar loja (Altera os dados da loja: CNPJ, endereço e nome.)
 
 
+### Classes
+
 O código é dividido em quatro classes, sendo elas:
 Clientes (A classe tem a função de representar aquilo que é realizado pela loja sem relação aos produtos, ou seja, é a classe se refere as ações que envolvem os clientes. São elas: login do cliente, cadastrar cliente, listar clientes, listar compras do cliente e listar vendas da loja.)
 
